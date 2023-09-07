@@ -23,11 +23,11 @@ NextJS, Tailwind, JavaScript, ChatGPT API.
 
 User Flow:
 
-🌐 Visit HealthCare Hub website.
-🤖 Initiate a conversation with the chatbot.
-🩺 Get personalized health information and guidance.
-🗓️ Schedule appointments hassle-free.
-📄 Access and manage health records securely.
+1. 🌐 Visit HealthCare Hub website.
+2. 🤖 Initiate a conversation with the chatbot.
+3. 🩺 Get personalized health information and guidance.
+4. 🗓️ Schedule appointments hassle-free.
+5. 📄 Access and manage health records securely.
 Benefits:
 
 ⚕️ Instant health information. 📅 Effortless appointment scheduling. 🔐 Secure data handling. 🤖 Interactive and user-friendly experience.
